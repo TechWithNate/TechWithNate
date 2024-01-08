@@ -2,12 +2,9 @@
 <h1 align="center">Hi 👋, I'm Dzreke-Poku Nathan K</h1>
 <h3 align="center">🚀 Passionate Software Developer | Cloud Engineer | National Service Personnel at Inngen</h3>
 
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif")
-
+(img align="right" alt="Coding" width="400" src="https://i.gifer.com/3rNn.mp4")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techwithnate&label=Profile%20views&color=0e75b6&style=flat" alt="techwithnate" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techwithnate" alt="techwithnate" /></a> </p>
 
 - 🔭 I’m currently working on [Spring Backend for eccomerce](https://github.com/TechWithNate/fluffy-products.git)
 
@@ -40,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techwithnate&show_icons=true&locale=en" alt="techwithnate" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techwithnate&" alt="techwithnate" /></p>
+
