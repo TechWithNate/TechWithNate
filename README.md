@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Spring Backend for eccomerce](https://github.com/TechWithNate/fluffy-products.git)
 
-- 🌱 I’m currently learning **Spring and Spring Boot, Node, Python, Front End Development With HTML, CSS and JavaScript, Flutter and Kotlin**
+- 🌱 I’m currently learning **Spring and Spring Boot, Python, Front End Development With HTML, CSS and JavaScript, Flutter and Kotlin**
 
 - 👯 I’m looking to collaborate on [Spring Backend for eccomerce](https://github.com/TechWithNate/fluffy-products.git)
 
