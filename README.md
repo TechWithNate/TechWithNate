@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Dzreke-Poku Nathan K</h1>
 <h3 align="center">🚀 Passionate Software Developer | Cloud Engineer | National Service Personnel at Inngen</h3>
 
-(img align="right" alt="Coding" width="400" src="https://i.gifer.com/3rNn.mp4")
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techwithnate&label=Profile%20views&color=0e75b6&style=flat" alt="techwithnate" /> </p>
 
 - 🔭 I’m currently working on [Spring Backend for eccomerce](https://github.com/TechWithNate/fluffy-products.git)
